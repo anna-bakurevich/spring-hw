@@ -3,7 +3,7 @@ package com.jd2.springhw.postprocessor;
 import org.springframework.stereotype.Service;
 
 @Service
-public class TestPostProcessor{
+public class TestPostProcessor {
 
     @MethodTime
     public void print() {
@@ -15,8 +15,7 @@ public class TestPostProcessor{
         }
     }
 
-    public void printWithoutAnnotation()
-    {
+    public void printWithoutAnnotation() {
         System.out.println("********************");
     }
 }

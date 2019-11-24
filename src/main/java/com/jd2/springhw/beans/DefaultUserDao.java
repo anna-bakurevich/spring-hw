@@ -12,6 +12,7 @@ public class DefaultUserDao implements UserDao {
         return 1;
     }
 
+
     @Override
     public String toString() {
         return "Class DefaultUserDao";
