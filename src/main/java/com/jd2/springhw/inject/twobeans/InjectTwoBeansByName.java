@@ -2,7 +2,6 @@ package com.jd2.springhw.inject.twobeans;
 
 import org.springframework.stereotype.Service;
 
-
 /*
 инжект двух бинов одного интерфейса по имени
  */

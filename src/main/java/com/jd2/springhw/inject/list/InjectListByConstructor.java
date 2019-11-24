@@ -1,11 +1,7 @@
 package com.jd2.springhw.inject.list;
 
-import com.jd2.springhw.beans.UserDao;
-import com.jd2.springhw.postprocessor.MethodTime;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import java.util.Arrays;
 import java.util.List;
 
 /*
